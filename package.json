@@ -1,0 +1,13 @@
+{
+  "name": "data-structure-and-algorithm",
+  "version": "1.0.0",
+  "description": "Grokking algorithm",
+  "main": "src/index.js",
+  "repository": "https://github.com/hongtat88/data-structure-and-algorithm",
+  "author": "hongtat",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "start": "node src/index"
+  }
+}
