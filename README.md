@@ -8,7 +8,7 @@ I create this repository for my study purpose. If it helps you to understand how
 
 ## Installation
 
-Run the following scripts to run the program.
+Execute the following scripts to run the program.
 
 ```bash
 yarn install

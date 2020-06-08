@@ -20,3 +20,5 @@ exports.binarySearch = async (sortedArray, value) => {
     }
     return -1; // not found
 }
+
+
